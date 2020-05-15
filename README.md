@@ -1,2 +1,6 @@
 # Moringa-Core-Projects
-Projects done during Moringa Data Science Cohort 3 Core Program
+The Projects in this repository cover various statistical ananysis methods. These methods include:
+> Univariate Analysis
+> Bivariate Analysis
+> Multivariate Analysis
+
